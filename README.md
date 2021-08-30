@@ -1,1 +1,1 @@
-# music-player
+Should open on mobile mode
